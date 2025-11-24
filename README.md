@@ -1,37 +1,35 @@
-# PeggleSpel
+Simpel Peggle Spel Idee
 
-🎯 Peggle: Bounce Builders
-Core Idea
+Je speelt op normale Peggle-borden, maar na elke bal mag je één klein object neerzetten dat het volgende schot verandert.
 
-You play on normal Peggle boards, but after every shot, you get to place one small object that changes the next shot.
+Hoe je speelt
 
-🧱 Gameplay Loop
+Je schiet de bal.
 
-Shoot the ball.
+De bal stuitert rond.
 
-Watch it bounce.
+Je plaatst één object.
 
-Place one item (like a bumper, mini-wall, spring peg, or triangle deflector).
+Je schiet weer met je nieuwe opstelling.
 
-Shoot again with your new setup.
+Objecten die je kunt plaatsen
 
-🔧 Placeable Items
+Bumper: laat de bal extra stuiteren.
 
-Bumper Peg: Adds a bouncy point.
+Kleine muur: verandert de hoek waar de bal heen gaat.
 
-Mini Wall: Alters the angle of the next bounce.
+Springmat: laat de bal omhoog springen.
 
-Spring Pad: Launches the ball upward.
+Sticky pin: maakt de bal langzamer zodat je meer controle hebt.
 
-Sticky Peg: Slows the ball for more precision.
+Je hebt maar 3–5 objecten per level, dus je moet slim plaatsen.
 
-You get 3–5 items per level total, so placement matters.
-
-⭐ Hero Power (Simple)
+Heldpower
 
 Build-Burst Unicorn:
-Next shot spawns extra temporary pegs on every item you placed for huge combo potential.
+Bij je volgende schot verschijnen er extra tijdelijke pins op alle objecten die jij hebt neergezet. Dit geeft superveel combo’s.
 
-🎨 Theme
+Thema
 
-Bright, toy-like visuals. Boards look like little plastic playsets you’re adding pieces to.
+Vrolijke, speelgoed-achtige stijl.
+Het bord lijkt op een plastic speelset waar je zelf onderdelen aan klikt.
