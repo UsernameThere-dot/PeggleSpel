@@ -33,3 +33,6 @@ Thema
 
 Vrolijke, speelgoed-achtige stijl.
 Het bord lijkt op een plastic speelset waar je zelf onderdelen aan klikt.
+
+<img width="599" height="485" alt="image" src="https://github.com/user-attachments/assets/c00b1ded-a8a9-4918-b741-b8da6e1a64f0" />
+
